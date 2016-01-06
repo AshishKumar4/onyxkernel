@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="hello world example" /> 
+  <Content type="html">
+     <![CDATA[
+       <script type="text/javascript"><!--
+google_ad_client = "pub-6382733804901273";
+/* 468x60, created 6/10/09 for Onyxkernel */
+google_ad_slot = "7324980128";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+     ]]>
+  </Content> 
+</Module>
